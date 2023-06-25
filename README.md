@@ -1,6 +1,6 @@
 # cards AWS
 
-## Estudando para a cartificação AWS Cloud Practitioner ❤️
+## Estudando para a certificação AWS Cloud Practitioner ❤️
 
 Fiz esses cards para melhor fixação do conteúdo.
 
